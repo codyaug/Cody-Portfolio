@@ -4,7 +4,13 @@ Data APIs are a great source of data for data science.
 
 The goal of this project is to run a EDA on a popular youtube channel to see what we can find.
 
-# [Project 2 : Linkedin-Bot](https://github.com/codyaug/Linkedin-Bot)
+# [Project 2 : Dow Jones Industrial Average Prediction](https://github.com/codyaug/Dow-Jones-Industrial-Average-Prediction)
+
+Applying machine learning to stocks. 
+
+This Project is predicting Dow Kones Indesx using LSTM Networks.
+
+# [Project 3 : Linkedin-Bot](https://github.com/codyaug/Linkedin-Bot)
 
 # Linkedin-Bot
 Automate the application process on LinkedIn(Easy Apply)
